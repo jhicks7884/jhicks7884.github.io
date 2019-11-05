@@ -1,11 +1,11 @@
 # Site settings
-author: Jeshua Hicks
-title: 
+author: Jeshua Hicks 
+title: Amazing Programming
 header-img: img/home-bg.png
 email: jhicks7884@outlook.com
-copyright_name: Jeshua Hicks
+copyright_name: Jeshua Hicks 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jhicks7884
